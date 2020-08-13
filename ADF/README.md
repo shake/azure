@@ -8,4 +8,7 @@ if first time use, would create storage account, update the 3 file,
 
   Create-Environment.ps1
   adf.json
+	moviesDB.csv
+  
+  
   
