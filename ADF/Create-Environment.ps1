@@ -1,5 +1,5 @@
 # Step 1: Input parameters  
-param([String]$EnvironmentName = "ABB30",`
+param([String]$EnvironmentName = "ABB01",`
       [String]$Stage = "Dev",`
       [String]$Location = "westeurope"`
       )
