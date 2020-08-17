@@ -5,9 +5,10 @@ in china ,now have not support data factory.you need to login international acco
 ## enable cloud powershell
 
 if first time use, would create storage account, update the 3 file: 
- *.Create-Environment.ps1,
- *.adf.json 	
- *.moviesDB.csv. 
+
+ 1.Create-Environment.ps1,
+ 2.adf.json 	
+ 3.moviesDB.csv. 
 
 you can modify the Create-Environment.ps1,then run it.
 
