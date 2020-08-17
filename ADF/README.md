@@ -6,7 +6,8 @@ in china ,now have not support data factory.you need to login international acco
 
 if first time use, would create storage account, update the 3 file: 
 
- 1.Create-Environment.ps1,
+
+ 1.Create-Environment.ps1
  2.adf.json 	
  3.moviesDB.csv. 
 
